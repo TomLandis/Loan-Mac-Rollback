@@ -1,9 +1,9 @@
 # Loan-Mac-Rollback
 
-##Overview
+## Overview
 This shell script makes the management of loaner Macs easy by automating the reset process between rentals.
 
-##Create new image
+## Create new image
 To create a new image.  Follow these steps:
 
 1. Boot into usb installer of Catalina or later OS.  Option key during boot with bootable USB inserted.
