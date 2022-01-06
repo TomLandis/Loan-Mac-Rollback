@@ -14,5 +14,5 @@ To create a new image.  Follow these steps:
 6. select 'Image from Container disk 1' -it might be named something else...
 7. Save the image as a read only, unencrpted MonthYear.dmg
 8. Add it to the same external HDD the other images are on and add it to the shell script in this repo (carefully)
-
+9. Add it to the restricted software server so we'll have a backup when the external HDD eventually dies.
 
